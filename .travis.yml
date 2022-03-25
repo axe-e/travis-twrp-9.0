@@ -5,7 +5,7 @@ install:
 language: java
 dist: trusty
 jdk:
-  - openjdk8
+  - openjdk8 
 - os: linux
 cache: ccache
 compiler:
